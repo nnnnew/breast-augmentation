@@ -1,6 +1,4 @@
-HN,Name,OperationDate,Implant size,PreOp-SNR,PreOp-SNL,PreOp-CNR,PreOp-CNL,PreOp-BWR,PreOp-BWL,PreOp-BHR,PreOp-BHL,PreOp-IMFR,PreOp-IMFL,PreOp-IMFSR,PreOp-IMFSL,PreOp-AreRW,PreOp-AreRH,PreOp-AreLW,PreOp-AreLH,PreOp-ID,"Postop
-Duration 
-(Months)",PostOp-SNR,PostOp-SNL,PostOp-CNR,PostOp-CNL,PostOp-BWR,PostOp-BWL,PostOp-BHR,PostOp-BHL,PostOp-IMFR,PostOp-IMFL,PostOp-AreRW,PostOp-AreRH,PostOp-AreLW,PostOp-AreLH,PostOp-ID
+HN,Name,OperationDate,Implant size,PreOp-SNR,PreOp-SNL,PreOp-CNR,PreOp-CNL,PreOp-BWR,PreOp-BWL,PreOp-BHR,PreOp-BHL,PreOp-IMFR,PreOp-IMFL,PreOp-IMFSR,PreOp-IMFSL,PreOp-AreRW,PreOp-AreRH,PreOp-AreLW,PreOp-AreLH,PreOp-ID,"PostopDuration",PostOp-SNR,PostOp-SNL,PostOp-CNR,PostOp-CNL,PostOp-BWR,PostOp-BWL,PostOp-BHR,PostOp-BHL,PostOp-IMFR,PostOp-IMFL,PostOp-AreRW,PostOp-AreRH,PostOp-AreLW,PostOp-AreLH,PostOp-ID
 649392,จีระพร,25-Nov-16,275,15,15,13.5,13.5,12.4,12.4,9,9,4,4,,,2,2,2,2,1.5,4,16.5,16.5,15,14.5,11.9,11.9,12.7,12.7,8,8,2.8,2.8,2.8,2.8,0.5
 5102732,ลักขณา,18-Nov-16,275,18.5,18.5,17.5,17.5,12.6,12.6,9,9,3,3,,,2,2.5,2,2.5,2,4,20,20,18,18,12.4,12.5,13,13,8,8,3,2.5,3,2.5,1.5
 630569,ชลธิชา,26-Aug-16,275,16,16,14,13.5,12,12,10.2,9.8,5,5,8,8,2,2,2,2,1.5,6,18,17,16.5,15,11.8,11.8,12,12,7.5,9,3,2.5,3,2.5,1.5
